@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__github",
+      "Bash(git remote get-url:*)",
+      "Bash(mkdir:*)",
+      "Bash(curl:*)",
+      "Bash(rm -rf .ba-tmp:*)",
+      "Read",
+      "Glob",
+      "Grep"
+    ]
+  }
+}
